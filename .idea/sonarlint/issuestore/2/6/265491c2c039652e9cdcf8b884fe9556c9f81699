@@ -1,0 +1,9 @@
+
+a
+java:S1192R"KDefine a constant instead of duplicating this literal "userEntity" 5 times.(µˆ¯½
+h
+java:S1192Q"RDefine a constant instead of duplicating this literal "taskUserEntitySet" 3 times.(ÿà®â
+d
+java:S1192h"IDefine a constant instead of duplicating this literal "objectId" 3 times.(¤éŒÇþÿÿÿÿ
+h
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ý©¸Û
